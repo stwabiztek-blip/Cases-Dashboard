@@ -11,3 +11,16 @@ Mode of Transmission breakdown, categorized by gender and district.
 Key population groups (gender-wise and district-wise) with yearly trends.
 
 Additionally, users can filter the data by selecting a specific gender (e.g., Adult Male, Adult Female, Transgender, Children). Upon selection, the dashboard will display the number of registered cases from the past five years, including the status of cases (alive or deceased) within that gender category.
+
+
+## Tools & Skills
+- Power BI
+- Excel
+
+## Dashboards
+- HIV cases dashboard
+
+## How to Use
+1. Download the `.pbix` file
+2. Open it in Power BI Desktop
+3. Refresh data if required
