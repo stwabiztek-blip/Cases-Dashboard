@@ -1,6 +1,13 @@
-Last 5 years trend of HIV positive cases in Sindh, Pakistan, Gender wise
-Last 5 Years trend of HIV Positive cases in Sindh district-wise 
-Last 5 years trend of hiv cases in Sindh Mode of transmission with gender wise as well as district wise
-Last years trend of hiv poitive cases Key member with gender wise as well as ditrict wise also
-When you click only adult male it show last 5 year how many adult male cases wo have registered in these 5 years same for other gender also 
-alive and dead cases 
+This dashboard presents a comprehensive analysis of HIV-positive cases reported in Sindh, Pakistan, over the last five years. The data is organized into the following key categories:
+
+Overall 5-year trend of HIV-positive cases across Sindh.
+
+Gender-wise trends for the past five years.
+
+District-wise distribution of HIV-positive cases over the last five years.
+
+Mode of Transmission breakdown, categorized by gender and district.
+
+Key population groups (gender-wise and district-wise) with yearly trends.
+
+Additionally, users can filter the data by selecting a specific gender (e.g., Adult Male, Adult Female, Transgender, Children). Upon selection, the dashboard will display the number of registered cases from the past five years, including the status of cases (alive or deceased) within that gender category.
